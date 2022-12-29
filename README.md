@@ -21,7 +21,7 @@ grid system , modal ,owl carsoul , collupase , slider , responsive,popups .
 - sign up page
 - model page
 
-![My Image](1.jpeg).jpeg)
+![My Image](1.jpeg)
 ![My Image](2.jpeg).jpeg)
 ![My Image](3.jpeg).jpeg)
 ![My Image](4.jpeg).jpeg)
