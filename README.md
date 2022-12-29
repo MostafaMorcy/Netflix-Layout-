@@ -22,7 +22,10 @@ grid system , modal ,owl carsoul , collupase , slider , responsive,popups .
 - model page
 
 ![My Image](1.jpeg)
-![My Image](2.jpeg).jpeg)
-![My Image](3.jpeg).jpeg)
-![My Image](4.jpeg).jpeg)
-![My Image](5.jpeg).jpeg)
+![My Image](2.jpeg)
+![My Image](3.jpeg)
+![My Image](4.jpeg)
+![My Image](5.jpeg)
+
+
+live- demo :  https://mostafamorcy.github.io/Netflix-Layout-/
